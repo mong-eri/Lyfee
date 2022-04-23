@@ -8,4 +8,6 @@
 #ubutton\url name# #url\button url#
 #button\button# #header\header#
 #cbutton\cbutton# #num\91876543210#
+
+to see current alive message : alive get
 ```
