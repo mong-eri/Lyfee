@@ -15,5 +15,8 @@
                         <li><a href="https://gist.github.com/lyfe00011/404b6ef1a4a4ab0ac14b58845213680a">ig</a></li>
                         <li><a href="https://gist.github.com/lyfe00011/e10e123e74777416db6ef4c2dbc6a98c">calc</a></li>
                         <li><a href="https://gist.github.com/lyfe00011/03fc0de72c912bb0784cd225e0b20490">emix</a></li>
+                        <li><a href="https://gist.github.com/lyfe00011/e9595f37d80ad9ee6d61a11ecb820b8c">vv</a></li>
+                        <li><a href="https://gist.github.com/lyfe00011/a8f926710a28706679158887649ea145">doc</a></li>
+
 		</ul>
 	</div>
