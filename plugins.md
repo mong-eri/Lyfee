@@ -13,5 +13,7 @@
                         <li><a href="https://gist.github.com/lyfe00011/b65d05830659f766f76d5e62c541f63d">lyrics</a></li>
                         <li><a href="https://gist.github.com/lyfe00011/470c297040daef2c7453ba4807f60e1b">time</a></li>
                         <li><a href="https://gist.github.com/lyfe00011/404b6ef1a4a4ab0ac14b58845213680a">ig</a></li>
+                        <li><a href="https://gist.github.com/lyfe00011/e10e123e74777416db6ef4c2dbc6a98c">calc</a></li>
+                        <li><a href="https://gist.github.com/lyfe00011/03fc0de72c912bb0784cd225e0b20490">emix</a></li>
 		</ul>
 	</div>
