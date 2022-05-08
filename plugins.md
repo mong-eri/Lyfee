@@ -9,5 +9,9 @@
 			<li><a href="https://gist.github.com/lyfe00011/120eee18e3c6b3c5b9a351120d9bf496">TextMaker Example</a></li>
                         <li><a href="https://gist.github.com/lyfe00011/fab96035b4aac2fe351ba4ab3cc09125">mforward</a></li>
                         <li><a href="https://gist.github.com/lyfe00011/b73535d503bed41f5324344883cf0030">dlt</a></li>
+                        <li><a href="https://gist.github.com/lyfe00011/04b7af2187c54b5971f7d9b402296585">jean</a></li>
+                        <li><a href="https://gist.github.com/lyfe00011/b65d05830659f766f76d5e62c541f63d">lyrics</a></li>
+                        <li><a href="https://gist.github.com/lyfe00011/470c297040daef2c7453ba4807f60e1b">time</a></li>
+                        <li><a href="https://gist.github.com/lyfe00011/404b6ef1a4a4ab0ac14b58845213680a">ig</a></li>
 		</ul>
 	</div>
