@@ -11,3 +11,5 @@
 <a href="https://github.com/lyfe00011/whatsapp-bot-md/wiki/sticker_pack_name"><img src="https://img.shields.io/badge/Sticker Pack-grey?style=for-the-badge&logo=appveyor%22"/></a>
 
 <a href="https://github.com/lyfe00011/whatsapp-bot-md/wiki/plugins"><img src="https://img.shields.io/badge/Plugins-violet?style=for-the-badge&logo=appveyor%22"/></a>
+
+<a href="https://github.com/lyfe00011/whatsapp-bot-md/wiki/vote"><img src="https://img.shields.io/badge/vote-orange?style=for-the-badge&logo=appveyor%22"/></a>
