@@ -16,3 +16,5 @@ welcome Hi &mention, welcome to #name
 * #ubutton\url button text#
 * #url\Url button url#
 * and u can use image or video url anywhere in message for image or video in welcome
+
+* mention not works when url or call button in message
