@@ -1,4 +1,4 @@
-<h3>PLUGINS<\h3>
+<h3>PLUGINS</h3>
 	<div>
 		<ul>
 			<li><a href="https://gist.github.com/lyfe00011/c9b86f8327ca781160fbad2f4d0fbd66">sudo</a></li>
