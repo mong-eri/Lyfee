@@ -4,7 +4,7 @@ welcome Hi &mention, welcome to &name
 &size/257 member joined
 
 welcome Hi &mention, welcome to &name
-#button\Thanks# #header\&desc# #ubutton\insta# #url\url#
+#button\Thanks# #header\&desc#
 ```
 * &mention for mention
 * &desc for desc
