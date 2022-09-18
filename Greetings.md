@@ -3,7 +3,7 @@ welcome Hi &mention, welcome to &name
 &desc
 &size/257 member joined
 
-welcome Hi &mention, welcome to #name
+welcome Hi &mention, welcome to &name
 #button\Thanks# #header\&desc# #ubutton\insta# #url\url#
 ```
 * &mention for mention
