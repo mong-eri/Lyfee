@@ -18,5 +18,6 @@
                         <li><a href="https://gist.github.com/lyfe00011/a8f926710a28706679158887649ea145">doc</a></li>
                         <li><a href="https://gist.github.com/lyfe00011/f14e2c4738966288e66288dae7a84a7c">audio</a></li>
                         <li><a href="https://gist.github.com/lyfe00011/b80aa4e6c175520daf5e8ec676262f00">pm_block</a></li>
+                        <li><a href="https://gist.github.com/lyfe00011/3d1921792c93d7c6d89b175f35dc9289">auto_send_status</a></li>
 		</ul>
 	</div>
