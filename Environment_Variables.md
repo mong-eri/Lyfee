@@ -1,7 +1,7 @@
 1. SESSION_ID - You get after successful scan.
 2. SUDO - your primary number or other number to use bot. Example SUDO = 987654321,911234567890
 3. PREFIX - Your prefix. Example PREFIX = ! | PREFIX = bot | PREFIX = ^[.,!] | PREFIX = null
-4. VPS - set it true if not HEROKU
+4. VPS - set it true if not HEROKU. Example VPS = true
 5. STICKER_PACKNAME - sticker packname. Example STICKER_PACKNAME = Name,Author
 6. WARN_LIMIT - Number of allowed Warns. Example WARN_LIMIT = 3
 7. DIS_BOT - Block bot. Example DIS_BOT = 5375039464603@g.us,91987654321
