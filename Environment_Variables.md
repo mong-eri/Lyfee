@@ -45,3 +45,4 @@
     - RMBG_KEY = key_from_api
 18. *`MAX_UPLOAD`* - Max MB file bot uploads.
     - MAX_UPLOAD = 230
+19. *`DATABASE_URL`* - Get it from [HERE](https://github.com/lyfe00011/whatsapp-bot-md/wiki/DATABASE_URL) or Don't add. depends platform
