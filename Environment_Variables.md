@@ -1,3 +1,5 @@
+### Copy Paste Key and Enter desired Values. SESSION_ID and DATABASE_URL `#0969DA` Mandatory!!!
+
 1. *SESSION_ID* - You get after successful scan.
 2. *SUDO* - your primary number or other number to use bot. Example `SUDO` = `987654321,911234567890`
 3. *PREFIX* - Your prefix. Example `PREFIX` = `!` | `PREFIX` = `bot` | `PREFIX` = `^[.,!]` | `PREFIX` = `null`
