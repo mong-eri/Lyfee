@@ -8,7 +8,7 @@
 ### 2. [supabase.com](https://app.supabase.com/projects)
    1. Create an account and Verify it. [signUp](https://app.supabase.com/sign-up)
    2. Click new Project, Enter Name and Password (note this password)
-   3. Open the Project, Open settings, open Database, Cope "Connection string" and replace [YOUR-PASSWORD] with password from step 3
+   3. Open the Project, Open settings, open Database, Cope "Connection string" and replace [YOUR-PASSWORD] with password from step 2
    4. Change "Pool Mode" to Session. This replaced Connection string can use as DATABASE_URL
 
 #####
