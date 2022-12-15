@@ -9,7 +9,7 @@
    1. Create an account and Verify it. [signUp](https://app.supabase.com/sign-up)
    2. Click new Project, Enter Name and Password (note this password)
    3. Open the Project, Open settings, open Database, Cope "Connection string" and replace [YOUR-PASSWORD] with password from step 3
-   4. Change "Pool Mode" to Session
+   4. Change "Pool Mode" to Session. This replaced Connection string can use as DATABASE_URL
 
 #####
  The copied URL is DATABASEURL. That You have enter as DATABASE_URL while [deploy](https://levanter-qr.vercel.app/koyeb)ing...
