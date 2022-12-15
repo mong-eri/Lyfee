@@ -5,6 +5,11 @@
 
       <img src="https://i.imgur.com/arOjTDr.jpeg" width="350" height="240">
 
+### 2. [supabase.com](https://app.supabase.com/projects)
+   1. Create an account and Verify it. [signUp](https://app.supabase.com/sign-up)
+   2. Click new Project, Enter Name and Password (note this password)
+   3. Open the Project, Open settings, open Database, Cope "Connection string" and replace [YOUR-PASSWORD] with password from step 3
+
 #####
  The copied URL is DATABASEURL. That You have enter as DATABASE_URL while [deploy](https://levanter-qr.vercel.app/koyeb)ing...
 <!---
