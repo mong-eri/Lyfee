@@ -47,3 +47,4 @@
     - MAX_UPLOAD = 230
 19. _`DATABASE_URL`_ - Get it from [HERE](https://github.com/lyfe00011/whatsapp-bot-md/wiki/DATABASE_URL) or Don't add. depends platform
 20. _`PORT`_ - port for server. default 3000
+21. _`FORCE_LOGOUT`_ - force logout from WhatsApp web
