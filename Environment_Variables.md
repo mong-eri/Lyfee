@@ -49,4 +49,4 @@
 20. _`PORT`_ - port for server. default 3000
 21. _`FORCE_LOGOUT`_ - force logout from WhatsApp web, Should change back to false after logout
      - FORCE_LOGOUT = true
-22. _`AJOIN`_ - set true to auto join group join request.
+22. _`AJOIN`_ - set true, Accept Group join request (Group Privacy).
