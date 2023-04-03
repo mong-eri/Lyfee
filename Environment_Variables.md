@@ -39,7 +39,7 @@
 15. _`SEND_READ`_ - Send blue tick. Example
     - SEND_READ = true
     - SEND_READ = false
-16. _`BRAINSHOP`_ - lydia api key. Example
+16. _`BRAINSHOP`_ - lydia api key. Example from https://brainshop.ai/
     - BRAINSHOP = 159501,6pq8dPiYt7PdqHz3
 17. _`RMBG_KEY`_ - remove.bg api key. Example
     - RMBG_KEY = key_from_api
