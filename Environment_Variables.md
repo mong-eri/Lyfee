@@ -50,3 +50,5 @@
 21. _`FORCE_LOGOUT`_ - force logout from WhatsApp web, Should change back to false after logout
      - FORCE_LOGOUT = true
 22. _`AJOIN`_ - set true, Accept Group join request (Group Privacy).
+23. _`APPROVE`_ - set antifake, then reject or approve or do both 
+     - APPROVE  = reject | approve | all
