@@ -1,3 +1,5 @@
+<a href="https://github.com/lyfe00011/whatsapp-bot-md/wiki/Environment_Variables"><img src="https://img.shields.io/badge/env Variables-9fc?style=for-the-badge&logo=appveyor%22"/></a>
+
 <a href="https://github.com/lyfe00011/whatsapp-bot-md/wiki/Greetings"><img src="https://img.shields.io/badge/Greetings-brightgreen?style=for-the-badge&logo=appveyor%22"/></a>
 
 <a href="https://github.com/lyfe00011/whatsapp-bot-md/wiki/antifake"><img src="https://img.shields.io/badge/Antifake-yellow?style=for-the-badge&logo=appveyor%22"/></a>
