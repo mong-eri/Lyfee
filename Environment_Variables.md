@@ -52,3 +52,4 @@
 22. _`AJOIN`_ - set true, Accept Group join request (Group Privacy).
 23. _`APPROVE`_ - set antifake(based on this approved), then reject or approve or do both 
      - APPROVE  = reject | approve | all
+24. _`TZ`_ - timezone
